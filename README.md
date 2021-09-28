@@ -2,6 +2,8 @@
 
 * [https://github.com/AndreySinelnikov/Templates](https://github.com/AndreySinelnikov/Templates)
 
+------------
+
 ### Repositories containing assignments from 'QA Automation with Java' EPAM training course:
 
 * [https://github.com/AndreySinelnikov/AndreySinelnikov](https://github.com/AndreySinelnikov/AndreySinelnikov)
