@@ -8,16 +8,9 @@
 
 * [UI test automation](https://github.com/AndreySinelnikov/AndreySinelnikov)
 
+* [API test automation with REST Assured](https://github.com/AndreySinelnikov/AndreySinelnikovRestAssured)
 
-* [https://github.com/AndreySinelnikov/AndreySinelnikovRestAssured](https://github.com/AndreySinelnikov/AndreySinelnikovRestAssured)
+* [SOAP API test automation with SoapUI](https://github.com/AndreySinelnikov/epam-soapui)
 
-API test automation with REST Assured.
-
-* [https://github.com/AndreySinelnikov/epam-soapui](https://github.com/AndreySinelnikov/epam-soapui)
-
-API test automation with SoapUI.
-
-* [https://github.com/AndreySinelnikov/AndreySinelnikovPostman](https://github.com/AndreySinelnikov/AndreySinelnikovPostman)
-
-REST API test automation with Postman
+* [REST API test automation with Postman](https://github.com/AndreySinelnikov/AndreySinelnikovPostman)
 
