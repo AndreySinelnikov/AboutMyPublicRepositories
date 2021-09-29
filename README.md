@@ -14,3 +14,5 @@
 
 * [REST API test automation with Postman](https://github.com/AndreySinelnikov/AndreySinelnikovPostman)
 
+* [Mobile test automation with Appium](https://github.com/AndreySinelnikov/AndreySinelnikovMobile)
+
