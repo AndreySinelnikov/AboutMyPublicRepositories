@@ -6,7 +6,7 @@
 
 ### Repositories containing assignments from 'QA Automation with Java' EPAM training course:
 
-* [UI test automation](https://github.com/AndreySinelnikov/AndreySinelnikov)
+* [UI test automation (Selenium, JDI, Cucumber)](https://github.com/AndreySinelnikov/AndreySinelnikov)
 
 * [API test automation with REST Assured](https://github.com/AndreySinelnikov/AndreySinelnikovRestAssured)
 
