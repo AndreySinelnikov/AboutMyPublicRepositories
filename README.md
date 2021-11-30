@@ -4,6 +4,12 @@
 
 ------------
 
+### Repository containing notes and thoughts on work processes
+
+* [https://github.com/AndreySinelnikov/Notes](https://github.com/AndreySinelnikov/Notes)
+
+------------
+
 ### Repositories containing assignments from 'QA Automation with Java' EPAM training course:
 
 * [UI test automation (Selenium, JDI, Cucumber)](https://github.com/AndreySinelnikov/AndreySinelnikov)
