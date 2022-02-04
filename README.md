@@ -10,6 +10,12 @@
 
 ------------
 
+### Repository containing archive of solutions to random everyday problems
+
+* [https://github.com/AndreySinelnikov/Solutions](https://github.com/AndreySinelnikov/Solutions)
+
+------------
+
 ### Repositories containing assignments from 'QA Automation with Java' EPAM training course:
 
 * [UI test automation (Selenium, JDI, Cucumber)](https://github.com/AndreySinelnikov/AndreySinelnikov)
